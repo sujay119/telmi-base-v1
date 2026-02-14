@@ -1,4 +1,5 @@
-# Enhanced Vite React TypeScript Template
+# TELMI V1
+
 
 This template includes built-in detection for missing CSS variables between your Tailwind config and CSS files.
 
